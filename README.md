@@ -38,7 +38,7 @@ Frontend Developer focused on building interactive and responsive web applicatio
 - Persistent data using LocalStorage
 
 ## Currently Learning
-- Advanced JavaScript concepts
+- React Js
 - Better project architecture
 - Performance optimization
 
