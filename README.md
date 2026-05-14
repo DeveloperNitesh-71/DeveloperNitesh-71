@@ -44,4 +44,4 @@ Frontend Developer focused on building interactive and responsive web applicatio
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/developer-nitesh71/
-- Portfolio: https://developernitesh-71.github.io/My-Portfolio/
+- Portfolio: https://developernitesh.netlify.app/
